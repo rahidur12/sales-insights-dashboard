@@ -2,8 +2,7 @@
 
 A professional Power BI dashboard designed to deliver actionable insights into sales performance, revenue trends, and profit margins across different customer segments and regional markets.
 
-> 📌 Live Project Link: [Sales Insights Dashboard](https://github.com/your-username/sales-insights-dashboard)  
-> *(Update the URL after uploading to GitHub)*
+> 📌 Live Project Link: https://github.com/rahidur12/sales-insights-dashboard?tab=readme-ov-file 
 
 ---
 
@@ -46,7 +45,7 @@ The dashboard is interactive, user-friendly, and optimized for both **executive-
 ## 📷 Dashboard Preview
 
 
-![Dashboard Preview](https://drive.google.com/drive/folders/1f5MoAIBseq0XDLiN4rsrHp6iehp3ld6d?usp=sharing)
+key insight: https://drive.google.com/file/d/1q8zJto_vIPwqdZkIhDyg0UYDqQoMHAnF/view?usp=drive_link
 
 ---
 
