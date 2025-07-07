@@ -44,8 +44,10 @@ The dashboard is interactive, user-friendly, and optimized for both **executive-
 
 ## 📷 Dashboard Preview
 
+key insight: https: //drive.google.com/file/d/1q8zJto_vIPwqdZkIhDyg0UYDqQoMHAnF/view?usp=drive_link
+perfomance insight: https://drive.google.com/file/d/1_jyy9Q5OVVEokDk_VfAkMfS3Rg_6r86V/view?usp=drive_link
+profit analysis: https://drive.google.com/file/d/13gj-U8qRhBfzu29Tc7nvmtt-nfPZ4Su1/view?usp=drive_link
 
-key insight: https://drive.google.com/file/d/1q8zJto_vIPwqdZkIhDyg0UYDqQoMHAnF/view?usp=drive_link
 
 ---
 
