@@ -55,7 +55,7 @@ The dashboard is interactive, user-friendly, and optimized for both executive-le
 
 | Challenge                                | Solution                                                   |
 |-----------------------------------------|-------------------------------------------------------------|
-| Missing product codes                   | Applied conditional logic to flag or fill missing values    |
+| curency overlap                         | Applied conditional logic to fix this problem               |
 | Inconsistent sales data                 | Used Power Query for normalization and transformation       |
 | Dashboard slow with large data volume   | Removed unnecessary columns, created optimized data model   |
 
